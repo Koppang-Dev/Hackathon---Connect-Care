@@ -32,6 +32,7 @@ A web application built with **Next.js, Express.js, and MongoDB** that leverages
    cd frontend  
    npm install  
    npm run dev
+```
 
 4. Open Application
 Go to http://localhost:3000 in your browser. The frontend will communicate with the backend at http://localhost:3001.
