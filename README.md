@@ -20,3 +20,22 @@ A web application built with **Next.js, Express.js, and MongoDB** that leverages
    ```sh
    git clone https://github.com/your-username/Hackathon-Connect-Care.git
    cd Hackathon-Connect-Care
+
+2. Setup and run Backend:  
+   ```sh
+   cd backend  
+   npm install  
+   npm start
+
+3. Setup and run Frontend
+ ```sh
+   cd frontend  
+   npm install  
+   npm run dev  
+
+4. Open Application
+Go to http://localhost:3000 in your browser. The frontend will communicate with the backend at http://localhost:3001.
+
+👥 Contributors
+• A big thanks to our team who helped create this product in 2 days!
+
